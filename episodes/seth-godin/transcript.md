@@ -1,15 +1,35 @@
 ---
-guest: "Seth Godin"
-title: "Inside Gong: How teams work with design partners, their pod structure, autonomy, trust, and more"
-youtube_url: "https://www.youtube.com/watch?v=HL7PS0fy1Ho"
-video_id: "HL7PS0fy1Ho"
-description: |
-  Eilon Reshef is the co-founder and chief product officer at Gong, one of the most ubiquitous B2B products in the world. In our conversation, we discuss:
+guest: Seth Godin
+title: 'Inside Gong: How teams work with design partners, their pod structure, autonomy,
+  trust, and more'
+youtube_url: https://www.youtube.com/watch?v=HL7PS0fy1Ho
+video_id: HL7PS0fy1Ho
+description: 'Eilon Reshef is the co-founder and chief product officer at Gong, one
+  of the most ubiquitous B2B products in the world. In our conversation, we discuss:
+
   • Gong’s unique approach to working...
+
+  '
 duration_seconds: 3403.0
-duration: "56:43"
+duration: '56:43'
 view_count: 7667
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- metrics
+- roadmap
+- culture
+- leadership
+- management
+- strategy
+- mission
+- competition
+- market
+- design
+- ux
+- ui
+- engineering
+- startup
+- founder
 ---
 
 # Inside Gong: How teams work with design partners, their pod structure, autonomy, trust, and more

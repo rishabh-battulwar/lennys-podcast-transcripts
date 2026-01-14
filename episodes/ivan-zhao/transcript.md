@@ -1,14 +1,34 @@
 ---
-guest: "Ivan Zhao"
-title: "Building minimum lovable products, stories from WeWork & Airbnb, and thriving as a PM | Jiaona Zhang"
-youtube_url: "https://www.youtube.com/watch?v=gLFZNzeylCc"
-video_id: "gLFZNzeylCc"
-description: |
-  Jiaona Zhang (JZ) is a product leader with a strong background in consumer products and extensive hiring and management experience. She is currently SVP of Product at Webflow as well as a lecturer...
+guest: Ivan Zhao
+title: Building minimum lovable products, stories from WeWork & Airbnb, and thriving
+  as a PM | Jiaona Zhang
+youtube_url: https://www.youtube.com/watch?v=gLFZNzeylCc
+video_id: gLFZNzeylCc
+description: 'Jiaona Zhang (JZ) is a product leader with a strong background in consumer
+  products and extensive hiring and management experience. She is currently SVP of
+  Product at Webflow as well as a lecturer...
+
+  '
 duration_seconds: 4052.0
-duration: "1:07:32"
+duration: '1:07:32'
 view_count: 19099
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- roadmap
+- experimentation
+- funnel
+- monetization
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
+- positioning
+- competition
 ---
 
 # Building minimum lovable products, stories from WeWork & Airbnb, and thriving as a PM | Jiaona Zhang

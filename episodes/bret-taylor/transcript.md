@@ -1,14 +1,33 @@
 ---
-guest: "Bret Taylor"
-title: "Inside the expert network training every frontier AI model | Garrett Lord"
-youtube_url: "https://www.youtube.com/watch?v=0qdR-XwHJ9o"
-video_id: "0qdR-XwHJ9o"
-description: |
-  Garrett Lord is co-founder and CEO of Handshake, which started as a career network for college students and new grads but recently discovered something extraordinary: they were sitting on the...
+guest: Bret Taylor
+title: Inside the expert network training every frontier AI model | Garrett Lord
+youtube_url: https://www.youtube.com/watch?v=0qdR-XwHJ9o
+video_id: 0qdR-XwHJ9o
+description: 'Garrett Lord is co-founder and CEO of Handshake, which started as a
+  career network for college students and new grads but recently discovered something
+  extraordinary: they were sitting on the...
+
+  '
 duration_seconds: 4191.0
-duration: "1:09:51"
+duration: '1:09:51'
 view_count: 15322
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- acquisition
+- pricing
+- hiring
+- leadership
+- management
+- strategy
+- vision
+- mission
+- differentiation
+- market
+- persona
+- jobs to be done
+- design
+- ui
 ---
 
 # Inside the expert network training every frontier AI model | Garrett Lord

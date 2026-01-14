@@ -1,14 +1,34 @@
 ---
-guest: "Geoffrey Moore"
-title: "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)"
-youtube_url: "https://www.youtube.com/watch?v=CtB0O0M7YS0"
-video_id: "CtB0O0M7YS0"
-description: |
-  Gergely Orosz writes the #1 technology newsletter at Substack, called The Pragmatic Engineer. He started his career as a software developer in the U.K., spent three years at Skype, and followed...
+guest: Geoffrey Moore
+title: 'Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The
+  Pragmatic Engineer)'
+youtube_url: https://www.youtube.com/watch?v=CtB0O0M7YS0
+video_id: CtB0O0M7YS0
+description: 'Gergely Orosz writes the #1 technology newsletter at Substack, called
+  The Pragmatic Engineer. He started his career as a software developer in the U.K.,
+  spent three years at Skype, and followed...
+
+  '
 duration_seconds: 4491.0
-duration: "1:14:51"
+duration: '1:14:51'
 view_count: 13365
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- churn
+- roadmap
+- analytics
+- conversion
+- pricing
+- monetization
+- freemium
+- revenue
+- hiring
+- management
+- strategy
+- vision
+- mission
+- positioning
 ---
 
 # Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)

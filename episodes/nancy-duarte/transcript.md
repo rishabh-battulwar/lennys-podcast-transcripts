@@ -1,14 +1,33 @@
 ---
-guest: "Nancy Duarte"
-title: "Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)"
-youtube_url: "https://www.youtube.com/watch?v=nTr21kgCFF4"
-video_id: "nTr21kgCFF4"
-description: |
-  Nan Yu is the head of product at Linear, one of the most beloved and fastest-growing B2B SaaS products out there today, and the gold standard for high-performing tech teams. In our conversation,...
+guest: Nancy Duarte
+title: Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)
+youtube_url: https://www.youtube.com/watch?v=nTr21kgCFF4
+video_id: nTr21kgCFF4
+description: 'Nan Yu is the head of product at Linear, one of the most beloved and
+  fastest-growing B2B SaaS products out there today, and the gold standard for high-performing
+  tech teams. In our conversation,...
+
+  '
 duration_seconds: 4868.0
-duration: "1:21:08"
+duration: '1:21:08'
 view_count: 39440
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- activation
+- metrics
+- roadmap
+- a/b testing
+- experimentation
+- analytics
+- conversion
+- subscription
+- hiring
+- culture
+- management
+- strategy
+- vision
 ---
 
 # Linear’s secret to building beloved B2B products | Nan Yu (Head of Product)

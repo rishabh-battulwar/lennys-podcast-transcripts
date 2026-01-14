@@ -1,14 +1,33 @@
 ---
-guest: "EOY Review"
-title: "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)"
-youtube_url: "https://www.youtube.com/watch?v=xzebbzIntFc"
-video_id: "xzebbzIntFc"
-description: |
-  Eric Ries is the creator of the Lean Startup methodology, author of the New York Times bestseller The Lean Startup, and founder of the Long-Term Stock Exchange (LTSE). He’s also a multi-time...
+guest: EOY Review
+title: Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
+youtube_url: https://www.youtube.com/watch?v=xzebbzIntFc
+video_id: xzebbzIntFc
+description: 'Eric Ries is the creator of the Lean Startup methodology, author of
+  the New York Times bestseller The Lean Startup, and founder of the Long-Term Stock
+  Exchange (LTSE). He’s also a multi-time...
+
+  '
 duration_seconds: 8055.0
-duration: "2:14:15"
+duration: '2:14:15'
 view_count: 64647
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- acquisition
+- activation
+- kpis
+- analytics
+- pricing
+- monetization
+- freemium
+- revenue
+- management
+- strategy
+- positioning
+- competition
+- market
 ---
 
 # Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)

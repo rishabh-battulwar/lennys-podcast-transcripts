@@ -1,5 +1,21 @@
 ---
-guest: "Dmitry Zlokazov"
+guest: Dmitry Zlokazov
+keywords:
+- growth
+- retention
+- metrics
+- roadmap
+- mvp
+- conversion
+- pricing
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- competition
 ---
 
 # Dmitry Zlokazov

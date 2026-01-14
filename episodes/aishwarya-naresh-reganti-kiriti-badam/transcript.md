@@ -1,5 +1,21 @@
 ---
-guest: "Aishwarya Naresh Reganti + Kiriti Badam"
+guest: Aishwarya Naresh Reganti + Kiriti Badam
+keywords:
+- retention
+- onboarding
+- metrics
+- roadmap
+- user research
+- iteration
+- subscription
+- culture
+- strategy
+- vision
+- mission
+- market
+- design
+- ui
+- prototype
 ---
 
 # Aishwarya Naresh Reganti + Kiriti Badam
