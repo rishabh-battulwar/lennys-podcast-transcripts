@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lenny's Podcast Transcripts</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🎙️ Lenny's Podcast Transcripts</h1>
+            <p class="subtitle">Browse, search, and explore 303 episodes of product management insights</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="search" placeholder="Search episodes, guests, or topics..." />
+            </div>
+
+            <div class="filters">
+                <select id="topic-filter">
+                    <option value="">All Topics</option>
+                </select>
+
+                <select id="sort-by">
+                    <option value="date-desc">Newest First</option>
+                    <option value="date-asc">Oldest First</option>
+                    <option value="guest-asc">Guest (A-Z)</option>
+                    <option value="views-desc">Most Viewed</option>
+                    <option value="duration-desc">Longest</option>
+                    <option value="duration-asc">Shortest</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="stats" class="stats">
+            <span id="result-count">Loading...</span>
+        </div>
+
+        <div id="episodes-grid" class="episodes-grid">
+            <div class="loading">Loading episodes...</div>
+        </div>
+    </main>
+
+    <div id="episode-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="episode-detail">
+                <!-- Episode detail will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>Transcripts from <a href="https://www.lennyspodcast.com/" target="_blank">Lenny's Podcast</a></p>
+            <p>Built with ❤️ for product managers everywhere</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

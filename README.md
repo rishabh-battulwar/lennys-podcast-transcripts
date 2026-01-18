@@ -8,6 +8,8 @@ Lenny's Podcast features interviews with world-class product leaders and growth 
 
 ## Quick Start
 
+**🌐 Browse the website:** Visit the [GitHub Pages website](docs/) for a modern, searchable interface to explore all 303 episodes.
+
 **Browse by topic:** Start with [index/README.md](index/README.md) to explore episodes by topic.
 
 **Search transcripts:**
@@ -18,16 +20,25 @@ grep -r "product-market fit" episodes/
 ## Repository Structure
 
 ```
-├── episodes/                    # 269 episode transcripts
+├── episodes/                    # 303 episode transcripts
 │   └── {guest-name}/
 │       └── transcript.md
 ├── index/                       # AI-generated topic index
 │   ├── README.md                # Main entry point
 │   ├── product-management.md    # Episodes about product management
 │   ├── leadership.md            # Episodes about leadership
-│   └── ...                      # 50+ topic files
+│   └── ...                      # 87 topic files
+├── docs/                        # GitHub Pages website
+│   ├── index.html               # Main website page
+│   ├── app.js                   # Interactive browser application
+│   ├── styles.css               # Responsive styling
+│   └── data/                    # JSON data files
+│       ├── episodes-index.json  # Episode metadata (450KB)
+│       ├── episodes.json        # Full transcripts (25MB)
+│       └── topics.json          # Topic categories
 └── scripts/
-    └── build-index.sh           # Script to regenerate index
+    ├── build-index.sh           # Regenerate topic index
+    └── build-data.py            # Generate website data files
 ```
 
 ## Episode Format
@@ -59,7 +70,37 @@ The `index/` folder contains AI-generated keyword tags for each episode, organiz
 | [Growth Strategy](index/growth-strategy.md) | Growth tactics and frameworks |
 | [Product-Market Fit](index/product-market-fit.md) | Finding and measuring PMF |
 
-See [index/README.md](index/README.md) for the complete list of 50 topics.
+See [index/README.md](index/README.md) for the complete list of 87 topics.
+
+## GitHub Pages Website
+
+A modern web interface is available in the `docs/` folder. The website provides:
+
+- **Full-text search** across all 303 episodes
+- **Topic filtering** with 87 categories
+- **Sort options** by date, views, duration, or guest name
+- **Episode detail view** with complete transcripts
+- **YouTube integration** with direct video links
+- **Responsive design** for mobile and desktop
+
+### Setting up GitHub Pages
+
+1. Go to your repository Settings > Pages
+2. Set Source to "Deploy from a branch"
+3. Select branch: `main` and folder: `/docs`
+4. Your site will be available at: `https://<username>.github.io/<repository-name>/`
+
+Note: GitHub Pages works with private repositories if you have GitHub Pro, Team, or Enterprise.
+
+### Regenerating Website Data
+
+After updating transcripts, regenerate the data files:
+
+```bash
+python3 scripts/build-data.py
+```
+
+See [docs/README.md](docs/README.md) for more details.
 
 ## Rebuilding the Index
 
@@ -102,7 +143,7 @@ print(f"Title: {metadata['title']}")
 
 ## Episode Count
 
-This archive contains **269 transcripts** from Lenny's Podcast episodes.
+This archive contains **303 transcripts** from Lenny's Podcast episodes.
 
 ## Data Sources
 
