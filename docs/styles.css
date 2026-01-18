@@ -9,6 +9,8 @@ html {
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(244, 124, 85, 0.2);
     scroll-behavior: smooth;
+    overflow-x: hidden;
+    width: 100%;
 }
 
 :root {
@@ -30,12 +32,22 @@ body {
     line-height: 1.7;
     color: var(--text-color);
     background-color: var(--background);
+    overflow-x: hidden;
+    width: 100%;
+    max-width: 100vw;
 }
 
 .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+main {
+    width: 100%;
+    overflow-x: hidden;
 }
 
 /* Header */
@@ -128,9 +140,10 @@ header h1 {
 /* Episodes Grid */
 .episodes-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(320px, 100%), 1fr));
     gap: 24px;
     margin-bottom: 40px;
+    width: 100%;
 }
 
 .episode-card {
@@ -143,6 +156,9 @@ header h1 {
     box-shadow: var(--shadow);
     min-height: 44px; /* Minimum touch target size */
     -webkit-tap-highlight-color: transparent;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    max-width: 100%;
 }
 
 .episode-card:hover {
@@ -167,6 +183,8 @@ header h1 {
     -webkit-box-orient: vertical;
     overflow: hidden;
     line-height: 1.3;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .episode-title {
@@ -179,6 +197,8 @@ header h1 {
     overflow: hidden;
     line-height: 1.5;
     font-weight: 400;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .episode-meta {
@@ -221,6 +241,8 @@ header h1 {
     -webkit-box-orient: vertical;
     overflow: hidden;
     line-height: 1.5;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .loading {
